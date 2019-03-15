@@ -5,4 +5,4 @@ hi
 - add html file
 - add feature file 
 
-This text add from github
+Add this text from pull request
