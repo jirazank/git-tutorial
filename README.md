@@ -7,5 +7,4 @@ hi
 
 Add this text from pull request
 
-add again
-Say hi
+Test pull request
